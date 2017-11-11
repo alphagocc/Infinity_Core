@@ -1,1 +1,1 @@
-# Infinity_Core
+# Infinity_Ores
